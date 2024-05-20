@@ -1,0 +1,47 @@
+*{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+}
+span{
+            display: block;
+}
+.button{
+            width: 200px;
+            height: 200px;
+            border: solid black 2px;
+            display: inline-block;
+            margin: 10px;
+}
+.btn{
+            border: solid black 2px;
+            display: inline-block;
+
+}
+#grey {
+            background: grey;
+}
+
+#white {
+            background: white;
+}
+
+#blue {
+            background: blue;
+}
+
+#yellow {
+            background: yellow;
+}
+#red{
+            background: red;
+}
+#green{
+            background: green;
+}
+#violet{
+            background: violet;
+}
+#pink{
+            background: pink;
+}
